@@ -1,0 +1,28 @@
+{
+  "name": "crud-nodejs-firebase",
+  "version": "0.0.1",
+  "description": "CRUD de Node Js y Firebase",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverchb11/CRUD-NODEJS-FIREBASE.git"
+  },
+  "author": "Oliver Charry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverchb11/CRUD-NODEJS-FIREBASE/issues"
+  },
+  "homepage": "https://github.com/oliverchb11/CRUD-NODEJS-FIREBASE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "firebase-admin": "^8.12.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
