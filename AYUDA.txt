@@ -10,6 +10,7 @@ git
 git status
 git init //inicializamos el repocitorio
 git add -A // agrege todo lo que encuentre en el repocitorio(por primera vez)
-git commit -m //para iniciar la version
+git commit -m //para iniciar la version y los comentarios de la version y nombre del proyeto
 git remote add origin "aca va el link del repocitorio" 
 git push origin master
+https://github.com/oliverchb11/CRUD-NODEJS-FIREBASE.git
